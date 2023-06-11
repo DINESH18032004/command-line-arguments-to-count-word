@@ -38,7 +38,7 @@ Run the program to determine the number of words in the file created.
 ## PROGRAM:
 ```
 Python program for getting the word count from the contents of a file using command line arguments.
-Developed by: Dinesh kumar r
+Developed by: DINESH KUMAR R
 RegisterNumber: 212222110010
 
 import sys
